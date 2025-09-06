@@ -1,0 +1,1 @@
+Place your CSV named 'house_prices_mumbai.csv' here. Columns: Location, Latitude, Longitude, SquareFootage, Bedrooms, Bathrooms, Price

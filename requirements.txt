@@ -1,0 +1,3 @@
+MATLAB (R2019b or newer)
+Deep Learning Toolbox
+Mapping Toolbox (optional for geoscatter)

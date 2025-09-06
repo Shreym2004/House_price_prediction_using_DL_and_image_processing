@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.mlappinstall
+*.mex*
+*.p
+*.fig
+*.slx
+*.mexa64
+*.csv
+/matlab_crash_dump.*
